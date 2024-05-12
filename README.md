@@ -1,8 +1,4 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
-
-![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
-
-[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
+# MERN Stack Project: Build Real Time Chat App | JWT, Socket.io
 
 Some Features:
 
@@ -12,7 +8,7 @@ Some Features:
 -   🚀 Online user status (Socket.io and React Context)
 -   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
+-   📩 Messages are stored on MongoDb for all conversations
 -   ⏳ And much more!
 
 ### Setup .env file
@@ -37,3 +33,4 @@ npm start
 ```
 # chat-application
 # chat-application
+
